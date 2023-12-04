@@ -45,8 +45,12 @@
   font-weight: bold;
 }
 
- /////////////////////////////////////////////// REGISTRATION
-h2.login{
+ ///////////////////////////////////////////////     LOGIN
+h1 {
+ $gray: #0E0000;
+}
+
+ h2.login{
   display: flex;
   justify-content: center;
   margin-top: 25px;
@@ -178,15 +182,4 @@ div .login-form {
   text-decoration: none;
 }
 
-// .float-end  a{
-//   text-decoration: none;
-//   color:rgb(0, 0, 0);
-//   border:1px solid black;
-//   width: 30px 30px;
-//   background-color: #d6d6d6;
-//   margin-right: 80px;
-//   padding: 8px 18px;
-//   border-radius: 4px;
-//   font-size: 14px;
 
-// }
